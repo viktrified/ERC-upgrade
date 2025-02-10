@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.28;
 
-import './lib/Events.sol';
-import './lib/Errors.sol';
+// import './lib/Events.sol';
+// import './lib/Errors.sol';
 
 contract KWAG {
     string public name;
